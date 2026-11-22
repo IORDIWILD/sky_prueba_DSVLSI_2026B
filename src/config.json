@@ -31,5 +31,8 @@
     "RUN_CTS": 1,
     
     "MAGIC_DEF_LABELS": 0,
-    "MAGIC_WRITE_LEF_PINONLY": 1
+    "MAGIC_WRITE_LEF_PINONLY": 1,
+
+    "RT_MAX_LAYER": "met4",
+    "FP_PDN_MULTILAYER": 0
 }
