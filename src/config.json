@@ -1,7 +1,7 @@
 {
     "DESIGN_NAME": "tt_um_AmitChen1415",
     "VERILOG_FILES": "dir::src/*.v",
-    "CLOCK_PORT": "clk_basys",
+    "CLOCK_PORT": "clk",
     "CLOCK_PERIOD": 40,
     
     "PDK": "sky130A",
